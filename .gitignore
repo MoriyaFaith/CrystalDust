@@ -46,3 +46,4 @@ berry_fix/ld_script.sed
 berry_fix/payload/ld_script.sed
 tools/poryscript/font_config.json
 *.ase
+CrystalDust-*.png
